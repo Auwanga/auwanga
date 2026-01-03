@@ -150,7 +150,7 @@ graph TD
 
 ### 💰 **Funding & Resources**
 <div align="center">
-  <h3>💎 <strong>$117,000 USD Raised</strong></h3>
+  <h3>💎 <strong>$9,281.90 USD Raised</strong></h3>
   <p><em>for AI research & equipment at age 17</em></p>
   <img src="https://img.shields.io/badge/🎯-Impact_Driven_Funding-FF9800?style=for-the-badge&logo=dollar-sign&logoColor=white" alt="Impact Funding" />
 </div>
