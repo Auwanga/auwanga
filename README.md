@@ -12,7 +12,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 - 🌱 Learning **React, Node.js, and Cloud Technologies**
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **JavaScript, Python, Web Development**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **auwanga@enkaliprime.com**
 - ⚡ Fun fact: **I love solving coding puzzles and building side projects!**
 
 ## 🧠 What I Actually Build (Beyond Tutorials)
@@ -167,10 +167,10 @@ Build your own generative UI chatbot using Vercel AI SDK and Google Gemini.
   <a href="https://twitter.com/Auwanga12" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:auwanga@enkaliprime.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.facebook.com/enkaliprime/MyResume" target="_blank">
+  <a href="https://api.enkaliprime.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </div>
