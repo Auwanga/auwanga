@@ -91,43 +91,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 ---
 
-## 🧪 **Offline AI Architecture** *(Core Innovation)*
-
-<div align="center">
-  <h3>🏗️ <strong>Distributed Intelligence Framework</strong></h3>
-</div>
-
-```mermaid
-graph TD
-    A[📱 Mobile App<br/>React Native] -->|Wi-Fi| B[🖥️ Local AI Server<br/>Raspberry Pi]
-    B -->|Inference| C[🧠 Local LLMs<br/>LLaMA / DeepSeek]
-
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#e8f5e8
-```
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h4>🔌 <strong>Fully Offline</strong></h4>
-        <p>Zero internet dependency<br>No cloud costs<br>Works anywhere</p>
-      </td>
-      <td align="center">
-        <h4>⚡ <strong>Low-Resource Optimized</strong></h4>
-        <p>Raspberry Pi compatible<br>Minimal power consumption<br>Scalable architecture</p>
-      </td>
-      <td align="center">
-        <h4>📈 <strong>Prototype → Production</strong></h4>
-        <p>Start small, scale big<br>Modular design<br>Future-proof</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🏆 **Recognition & Impact**
 
 <div align="center">
@@ -192,68 +155,6 @@ graph TD
 
 ---
 
-## 🧠 **Engineering Philosophy**
-
-<div align="center">
-  <h2>🎯 <strong>Core Principles</strong></h2>
-</div>
-
-| Principle | Meaning | Why It Matters |
-|-----------|---------|----------------|
-| 🚀 **Execution > Ideas** | Build now, perfect later | Real impact beats perfect plans |
-| 📦 **Ship Early, Improve Fast** | Launch, iterate, scale | Learning through doing |
-| 🌍 **Access Beats Perfection** | Working solution > Perfect code | Technology should serve people |
-| 🔌 **Offline Is Not Optional** | Works without internet | Global accessibility |
-
----
-
-## 📌 **What's Next** *(Current Explorations)*
-
-<div align="center">
-  <h3>🔬 <strong>Building the Future</strong></h3>
-</div>
-
-### 🤖 **Advanced AI**
-- **Agent Workflows**: Multi-step AI reasoning chains
-- **Intent Processing**: Understanding context & goals
-- **Autonomous Systems**: Self-improving AI agents
-
-### 📄 **Document Intelligence**
-- **PDF Processing**: Auto-fill & data extraction
-- **Form Reasoning**: Intelligent document understanding
-- **Smart Automation**: Paperwork elimination
-
-### 🛠️ **Developer Platforms**
-- **SDK Design**: Easy-to-use development tools
-- **API Ecosystems**: Connected developer experiences
-- **CLI Tools**: Powerful command-line interfaces
-
-### ⚡ **Edge Computing**
-- **Hardware Optimization**: Maximizing AI on edge devices
-- **Power Efficiency**: Low-energy AI processing
-- **Distributed Intelligence**: Networked edge systems
-
----
-
-## 🤝 **Open To Collaborate**
-
-<div align="center">
-  <h2>🌟 <strong>Let's Build Together</strong></h2>
-</div>
-
-| Collaboration Type | Focus Areas | Impact Goal |
-|-------------------|-------------|-------------|
-| 🔬 **Research** | AI for development, offline systems | Scientific advancement |
-| 💻 **Open Source** | Edge AI, education technology | Community benefit |
-| 🌍 **Youth Programs** | Global tech initiatives | Next generation |
-| 🏗️ **Systems Building** | Real-world solutions | Measurable impact |
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀-Ready_to_Build_Something_Amazing-4CAF50?style=for-the-badge&logo=rocket&logoColor=white" alt="Ready to Build" />
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -277,23 +178,6 @@ graph TD
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🌟 Featured Projects
-
-### 🚀 [enkali prime AI](https://github.com/Auwanga/enkaliprime_AI)
-Offline AI Chat-Bot using modern web technologies for intelligent conversations.
-
-**Tech Stack:** TypeScript, AI/ML, Web Technologies
-
-### 🎯 [Chatbot UI](https://github.com/Auwanga/chatbot-ui)
-AI chat interface for every model, providing a seamless user experience.
-
-**Tech Stack:** TypeScript, React, AI Integration
-
-### 💻 [Gemini Chatbot](https://github.com/Auwanga/gemini-chatbot)
-Build your own generative UI chatbot using Vercel AI SDK and Google Gemini.
-
-**Tech Stack:** Next.js, Google Gemini, Vercel AI SDK
-
 ## 🔗 Connect With Me
 
 <div align="center">
@@ -310,13 +194,6 @@ Build your own generative UI chatbot using Vercel AI SDK and Google Gemini.
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-
-## 🎯 Current Focus
-
-- 🔨 Building **scalable web applications**
-- 📚 Learning **advanced React patterns and state management**
-- 🎨 Exploring **UI/UX design principles**
-- 🤝 Contributing to **open source projects**
 
 ## 📈 Activity Graph
 
