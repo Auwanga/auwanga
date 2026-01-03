@@ -15,6 +15,98 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 - 📫 Reach me at **your.email@example.com**
 - ⚡ Fun fact: **I love solving coding puzzles and building side projects!**
 
+## 🧠 What I Actually Build (Beyond Tutorials)
+
+I focus on **real-world systems**, especially for environments with limited connectivity.
+
+* 🌍 **Offline-first AI systems** (no internet, no API keys)
+* 🤖 **AI agents with intent recognition**
+* 🗣️ **Local language translation APIs** (Namibian languages ↔ English)
+* 📡 **Edge AI** using Raspberry Pi & local servers
+* 🏫 **Education technology** deployed in real schools
+
+> *If it doesn't work offline, it isn't finished.*
+
+## 🏗️ Flagship Platform
+
+### 🌐 **EnkaliPrime**
+
+An AI-powered education & communication platform built for Africa.
+
+**What it includes:**
+
+* Offline & online AI chatbots
+* Real-time translation for local languages
+* Career guidance for students
+* School collaboration & resource transparency
+* Developer-first APIs, SDKs & CLI tools
+
+📍 **Piloted in schools in the Omaheke Region, Namibia**
+
+## 🧪 Offline AI Architecture (Core Focus)
+
+```text
+Mobile App (React Native)
+        ↓ Wi-Fi
+Local AI Server (Raspberry Pi)
+        ↓
+Local LLMs (LLaMA / DeepSeek)
+```
+
+* Works **fully offline**
+* Designed for **low-resource environments**
+* Scales from prototype → custom hardware
+
+## 🏆 Recognition & Impact
+
+* 🥇 **Winner – BOOST UP 2024 National Pitch Competition (NCRST)**
+* 🥈 **UNDP 2nd Place** + 🏅 **MTC Award – Best Presentation (Education)**
+* 🌍 **Generation Connect Youth Envoy (ITU) – Namibia**
+* 🇨🇺 Represented Namibia at **Global Youth Summit 2025 (Cuba)**
+* 🏆 **Winner – National ICT Summit 2023**
+* 💰 Raised **~$117,000 USD** for AI research & equipment (age 17)
+
+## 🧩 Tech I Use Daily (Reality Stack)
+
+### AI & Systems
+
+* Local LLMs (LLaMA 2, LLaMA 3, DeepSeek)
+* AI Agents & Intent Algorithms
+* Offline inference pipelines
+
+### Frontend
+
+* React
+* React Native (Expo)
+* Next.js
+
+### Backend & Infra
+
+* Supabase
+* Edge servers (Raspberry Pi)
+* Google Cloud & Azure
+
+## 🧠 Engineering Philosophy
+
+* 🚀 **Execution > Ideas**
+* 📦 **Ship early, improve fast**
+* 🌍 **Access beats perfection**
+* 🔌 **Offline is not optional**
+
+## 📌 What I'm Exploring Now
+
+* Advanced AI agent workflows
+* PDF intelligence (auto-fill & form reasoning)
+* Developer platforms & SDK design
+* Edge AI hardware optimization
+
+## 🤝 Open To
+
+* Research collaborations
+* Open-source contributions
+* Global youth tech programs
+* Building systems that matter
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -111,6 +203,8 @@ Build your own generative UI chatbot using Vercel AI SDK and Google Gemini.
 </div>
 
 ---
+
+> Building technology that works where it matters most.
 
 ⭐ **Star this repo if you found it interesting!**
 🎉 **Feel free to fork and customize it for your own profile!**
