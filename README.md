@@ -133,12 +133,12 @@ Local LLMs (LLaMA / DeepSeek)
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Auwanga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auwanga&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Auwanga&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auwanga&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Auwanga&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Auwanga&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ## 🌟 Featured Projects
