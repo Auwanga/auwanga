@@ -197,7 +197,7 @@ Build your own generative UI chatbot using Vercel AI SDK and Google Gemini.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Auwanga&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-3.4K-0e75b6?style=flat" alt="Profile Views" />
   <br />
   <em>Thanks for visiting my profile! Have a great day! 😊</em>
 </div>
