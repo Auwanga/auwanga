@@ -277,17 +277,6 @@ graph TD
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Auwanga&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auwanga&layout=compact&theme=merko&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Auwanga&theme=merko&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🌟 Featured Projects
 
 ### 🚀 [enkali prime AI](https://github.com/Auwanga/enkaliprime_AI)
