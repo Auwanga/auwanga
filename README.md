@@ -12,6 +12,9 @@
 <a href="https://linkedin.com/in/enkaliprime">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="https://twitter.com/Auwanga12">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
 
 </div>
 
@@ -52,13 +55,13 @@ That means thinking about connectivity, infrastructure, language, accessibility,
 </div>
 
 | Area                               | What I Work On                                                       |
-| ---------------------------------- | -------------------------------------------------------------------- |
+| ----------------------------------- | ---------------------------------------------------------------------- |
 | 🤖 **Artificial Intelligence**     | AI assistants, agents, RAG systems, local inference and automation   |
 | 📡 **Offline & Edge Computing**    | Systems designed for limited or unreliable connectivity              |
 | 🌍 **African Language Technology** | Translation, language processing and culturally relevant AI          |
 | 📱 **Mobile Applications**         | React Native, Expo and production-focused mobile systems             |
 | 🌐 **Full-Stack Systems**          | Modern web applications, APIs, dashboards and backend infrastructure |
-| ☁️ **Cloud Infrastructure**        | Azure, Google Cloud, Vercel, Supabase and deployment architecture    |
+| ☁️ **Cloud Infrastructure**         | Azure, Google Cloud, Vercel, Supabase and deployment architecture    |
 | 🧩 **Developer Infrastructure**    | APIs, SDKs, communication infrastructure and integrations            |
 
 ---
@@ -181,21 +184,18 @@ Built around:
 
 ### 🥇 National & International Recognition
 
-| Year     | Achievement                                                                   |
-| -------- | ----------------------------------------------------------------------------- |
-| **2026** | 🏆 **Crowned Mr STEM Namibia 2026**                                           |
-| **2026** | 🧬 Selected as **STEM Ambassador**                                            |
-| **2025** | 🏆 **Science Fair Champion 2025**                                             |
-| **2025** | 🥇 Best Science Fair Project, Secondary                                       |
-| **2025** | 🥇 Best ICT Project, Secondary                                                |
-| **2025** | 🥇 Best Overall Performer, Secondary                                          |
-| **2025** | 🌍 Represented Namibia at the **Global Youth Summit in Cuba**                 |
-| **2024** | 🥇 **BOOST UP National Pitch Winner**                                         |
-| **2024** | 🥈 **UNDP Pivoting Smarter Cities, 2nd Place**                                |
-| **2024** | 🥇 Science Fair / ICT innovation recognition                                  |
-| **2024** | 🏆 MTC Best Presentation in Education                                         |
-| **2023** | 🏆 National ICT Summit recognition for innovation and presentation excellence |
-| **2023** | 🚀 UNICEF UPSHIFT Namibia participant                                         |
+| Year     | Achievement                                                                                                                                              |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **2026** | 🏆 **Crowned Mr STEM Namibia 2026**                                                                                                                      |
+| **2026** | 🧬 **STEM Ambassador**                                                                                                                                    |
+| **2025** | 🏆 **Science Fair Champion 2025** — Best Science Fair Project (Secondary), Best ICT Project (Secondary), Gold Medal & Best Overall Performer (Secondary) |
+| **2025** | 🌍 **Represented Namibia at the Global Youth Summit in Cuba**                                                                                             |
+| **2024** | 🥇 **BOOST UP National Pitch Winner**                                                                                                                     |
+| **2024** | 🏆 **MTC Best Presentation in Education**                                                                                                                 |
+| **2024** | 🥈 **Science Fair Innovation Recognition**                                                                                                                |
+| **2023** | 🥈 **UNDP Pivoting Smarter Cities — 2nd Place**                                                                                                           |
+| **2023** | 🏆 **National ICT Summit Recognition** for Innovation & Presentation Excellence                                                                           |
+| **2023** | 🚀 **UNICEF UPSHIFT Namibia** — Innovation & Entrepreneurship Programme                                                                                    |
 
 ---
 
@@ -358,21 +358,21 @@ AI-powered mathematics learning and assistance for Grades 8–12.
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auwanga&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=Auwanga&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="Auwanga's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auwanga&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Auwanga&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Auwanga&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Auwanga&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
+> ⚠️ **Note on these cards:** they're rendered live by community-hosted Vercel/Heroku services (not GitHub itself), so they occasionally go down or rate-limit when traffic spikes. If any image above shows a broken icon, it's usually temporary — refreshing the page or waiting a few minutes typically fixes it. `cache_seconds` has been added to reduce how often the cards need to regenerate.
 
 ---
 
@@ -380,9 +380,11 @@ AI-powered mathematics learning and assistance for Grades 8–12.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Auwanga&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Auwanga&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Auwanga's GitHub Trophies" />
 
 </div>
+
+> If trophies don't load, this specific Vercel deployment (`github-profile-trophy.vercel.app`) is a shared free-tier service that sleeps/rate-limits under load — it isn't something broken in this file. A more reliable long-term fix is switching to a self-hosted version generated by a GitHub Action (see **Making this bulletproof** below).
 
 ---
 
@@ -390,9 +392,21 @@ AI-powered mathematics learning and assistance for Grades 8–12.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Auwanga&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Auwanga GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Auwanga&theme=react-dark&hide_border=true&bg_color=00000000" alt="Auwanga GitHub Activity Graph" />
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Auwanga/Auwanga/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+> **New addition.** This animated snake "eats" your contribution graph. Unlike the widgets above, it's generated by a GitHub Action that runs on your own repo and commits the SVG as a static file — so it never depends on a third-party server staying online. Setup is below.
 
 ---
 
